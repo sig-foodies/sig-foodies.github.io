@@ -17,7 +17,7 @@ Here is how all started:
 [Marino Wijay](https://twitter.com/virtualized6ix)  
 [Mauricio Salatino](https://twitter.com/salaboy)  
 [Viktor Farcic](https://twitter.com/vfarcic)  
-[Puja Abbassi]((https://twitter.com/puja108))  
+[Puja Abbassi](https://twitter.com/puja108)   
 
 # Purpose of the SIG
     To create a list of places, food, locations, varieties of food and drinks which can be used as a reference during your stay at KubeCon + CloudNativeCon SomewhereInTheWorld
