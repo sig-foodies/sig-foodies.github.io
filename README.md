@@ -1,5 +1,6 @@
-# sig-foodies.github.io
-CNCF SIG Foodies website
+# CNCF SIG Foodies website
+
+[Paris](./paris.md) | [Chicago](./chicago.md)
 
 It's all started at Rejects 2023 in Chicago around noon at 
 [Luke's Italian Beef](https://lukeschicago.com/)
