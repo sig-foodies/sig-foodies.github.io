@@ -13,3 +13,7 @@
 ### Fine Dining
 
 ## Vegetarian
+
+### Street food
+
+- [**Dizen**](https://www.instagram.com/dizen.paris/) - Get this Israeli street-food star called sabich at Dizen in the near of Pigalle! In my opinon very close to Tel Aviv's famous Sabich Tchernikhovski! | [Location](https://maps.app.goo.gl/LAZR9jUj39r3wmCt9)
