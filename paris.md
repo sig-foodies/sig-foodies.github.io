@@ -10,10 +10,10 @@
 - [**Stohrer**](https://stohrer.fr/) - Olders Pastry and Bread in Paris - [Location](https://maps.app.goo.gl/Q27SYgtUsL9YCSvN9) | [Instagram](https://www.instagram.com/stohrer/) | [Source]()
 
 ### Street food
+- [**Dizen**](https://www.instagram.com/dizen.paris/) - Get this Israeli street-food star called sabich at Dizen in the near of Pigalle! In my opinon very close to Tel Aviv's famous Sabich Tchernikhovski! | [Location](https://maps.app.goo.gl/LAZR9jUj39r3wmCt9)
+
 ### Fine Dining
 
 ## Vegetarian
 
 ### Street food
-
-- [**Dizen**](https://www.instagram.com/dizen.paris/) - Get this Israeli street-food star called sabich at Dizen in the near of Pigalle! In my opinon very close to Tel Aviv's famous Sabich Tchernikhovski! | [Location](https://maps.app.goo.gl/LAZR9jUj39r3wmCt9)
