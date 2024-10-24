@@ -3,6 +3,9 @@
 ### Meats
 
 ### Local goodies
+https://www.costavida.com/ - Sweet Pork Salad
+
+https://www.caferio.com/
 
 ### Bakery - Boulangerie(breads and Baguettes baked on-premises)
 
