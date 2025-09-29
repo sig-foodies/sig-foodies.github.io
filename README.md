@@ -1,6 +1,6 @@
 # CNCF SIG Foodies website
 
-[Atlanta](./atlanta.md)[Slat Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](/)
+[Atlanta](./atlanta.md) | [Slat Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](/)
 =======
 
 
