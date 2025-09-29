@@ -1,6 +1,6 @@
 # CNCF SIG Foodies website
 
-[Slat Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](./chicago.md)
+[Slat Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](/)
 
 It's all started at Rejects 2023 in Chicago around noon at 
 [Luke's Italian Beef](https://lukeschicago.com/)
