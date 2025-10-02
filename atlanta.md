@@ -11,6 +11,7 @@
 
 ### Bakery - Boulangerie(breads and Baguettes baked on-premises)
 - [Lee's bakery](https://leesbakeryatl.com/) - Vietnamese Bakery
+- [Evergreen Butcher and Bakery](https://www.evergreenbutcherandbaker.com/) - Butcher shop and Bakery on the same place, great breads and pastries!
 
 ### Sushi and Asian
 - [Hayakawa](https://www.hayakawaatl.com/) - Sushi
@@ -24,9 +25,10 @@
 ### Street food/Food Market
 - [Ponce City Market](https://poncecitymarket.com/)
 - [The Krog District](https://www.thekrogdistrict.com/)
-
+- [Buford Highway Farmers Market](https://share.google/MI5RmG8xMoa0BDaGh) - Market with food and ingredients from all over the world
 
 ### Pastry Shop 
+
 
 ### Breakfast/Brunch
 
