@@ -25,7 +25,7 @@
 ### Street food/Food Market
 - [Ponce City Market](https://poncecitymarket.com/)
 - [The Krog District](https://www.thekrogdistrict.com/)
-- [Buford Highway Farmers Marke](https://share.google/MI5RmG8xMoa0BDaGh) - Market with food and ingredients from all over the world
+- [Buford Highway Farmers Market](https://share.google/MI5RmG8xMoa0BDaGh) - Market with food and ingredients from all over the world
 
 ### Pastry Shop 
 
