@@ -71,4 +71,4 @@
 ---
 
 ## Gluten-free
- - [Gluten-free food](https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/gluten-free-food-in-amsterdam)
+- [Gluten-free food](https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/gluten-free-food-in-amsterdam)
