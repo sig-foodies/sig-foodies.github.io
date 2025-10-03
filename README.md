@@ -1,6 +1,6 @@
 # CNCF SIG Foodies website
 
-[Atlanta](./atlanta.md) | [Salt Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](/) | [Amsterdam](/amsterdam.md)
+[Atlanta](./atlanta.md) | [Salt Lake City](./slc.md) | [Paris](./paris.md) | [Chicago](/) | [Amsterdam](./amsterdam.md)
 =======
 
 
@@ -20,7 +20,8 @@ Here is how all started:
 [Marino Wijay](https://twitter.com/virtualized6ix)  
 [Mauricio Salatino](https://twitter.com/salaboy)  
 [Viktor Farcic](https://twitter.com/vfarcic)  
-[Puja Abbassi](https://twitter.com/puja108)   
+[Puja Abbassi](https://twitter.com/puja108)
+[Luca Berton](https://lucaberton.com/)
 
 # Purpose of the SIG
     To create a list of places, food, locations, varieties of food and drinks which can be used as a reference during your stay at KubeCon + CloudNativeCon SomewhereInTheWorld
