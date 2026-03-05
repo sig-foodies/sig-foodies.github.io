@@ -22,8 +22,9 @@ Here is how all started:
 [Viktor Farcic](https://twitter.com/vfarcic)  
 [Puja Abbassi](https://twitter.com/puja108)
 
-Contributors:
-[Luca Berton](https://lucaberton.com/)
+Contributors:    
+[Luca Berton](https://lucaberton.com/)    
+Paco Bernabè    
 
 # Purpose of the SIG
     To create a list of places, food, locations, varieties of food and drinks which can be used as a reference during your stay at KubeCon + CloudNativeCon SomewhereInTheWorld
