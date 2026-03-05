@@ -21,6 +21,8 @@ Here is how all started:
 [Mauricio Salatino](https://twitter.com/salaboy)  
 [Viktor Farcic](https://twitter.com/vfarcic)  
 [Puja Abbassi](https://twitter.com/puja108)
+
+Contributors:
 [Luca Berton](https://lucaberton.com/)
 
 # Purpose of the SIG
